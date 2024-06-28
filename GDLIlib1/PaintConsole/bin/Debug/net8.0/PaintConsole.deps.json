@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PaintConsole/1.0.0": {
+        "dependencies": {
+          "GDLIlib1": "1.0.0"
+        },
+        "runtime": {
+          "PaintConsole.dll": {}
+        }
+      },
+      "GDLIlib1/1.0.0": {
+        "runtime": {
+          "GDLIlib1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PaintConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GDLIlib1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

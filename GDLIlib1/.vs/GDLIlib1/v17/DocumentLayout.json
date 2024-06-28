@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\.net\\GDLIlib1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01E8A52D-23A7-49F8-BBC8-F8C0C7F84A34}|PaintConsole\\PaintConsole.csproj|e:\\.net\\gdlilib1\\paintconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E8A52D-23A7-49F8-BBC8-F8C0C7F84A34}|PaintConsole\\PaintConsole.csproj|solutionrelative:paintconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C23E94-15AF-4D08-93CD-5B2921B18FEB}|GDLIlib1\\GDLIlib1.csproj|e:\\.net\\gdlilib1\\gdlilib1\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C23E94-15AF-4D08-93CD-5B2921B18FEB}|GDLIlib1\\GDLIlib1.csproj|solutionrelative:gdlilib1\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C23E94-15AF-4D08-93CD-5B2921B18FEB}|GDLIlib1\\GDLIlib1.csproj|e:\\.net\\gdlilib1\\gdlilib1\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C23E94-15AF-4D08-93CD-5B2921B18FEB}|GDLIlib1\\GDLIlib1.csproj|solutionrelative:gdlilib1\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C23E94-15AF-4D08-93CD-5B2921B18FEB}|GDLIlib1\\GDLIlib1.csproj|e:\\.net\\gdlilib1\\gdlilib1\\gdlilib1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D1C23E94-15AF-4D08-93CD-5B2921B18FEB}|GDLIlib1\\GDLIlib1.csproj|solutionrelative:gdlilib1\\gdlilib1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C23E94-15AF-4D08-93CD-5B2921B18FEB}|GDLIlib1\\GDLIlib1.csproj|e:\\.net\\gdlilib1\\gdlilib1\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C23E94-15AF-4D08-93CD-5B2921B18FEB}|GDLIlib1\\GDLIlib1.csproj|solutionrelative:gdlilib1\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C23E94-15AF-4D08-93CD-5B2921B18FEB}|GDLIlib1\\GDLIlib1.csproj|e:\\.net\\gdlilib1\\gdlilib1\\istorable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C23E94-15AF-4D08-93CD-5B2921B18FEB}|GDLIlib1\\GDLIlib1.csproj|solutionrelative:gdlilib1\\istorable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C23E94-15AF-4D08-93CD-5B2921B18FEB}|GDLIlib1\\GDLIlib1.csproj|e:\\.net\\gdlilib1\\gdlilib1\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C23E94-15AF-4D08-93CD-5B2921B18FEB}|GDLIlib1\\GDLIlib1.csproj|solutionrelative:gdlilib1\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C23E94-15AF-4D08-93CD-5B2921B18FEB}|GDLIlib1\\GDLIlib1.csproj|e:\\.net\\gdlilib1\\gdlilib1\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C23E94-15AF-4D08-93CD-5B2921B18FEB}|GDLIlib1\\GDLIlib1.csproj|solutionrelative:gdlilib1\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C23E94-15AF-4D08-93CD-5B2921B18FEB}|GDLIlib1\\GDLIlib1.csproj|e:\\.net\\gdlilib1\\gdlilib1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C23E94-15AF-4D08-93CD-5B2921B18FEB}|GDLIlib1\\GDLIlib1.csproj|solutionrelative:gdlilib1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.net\\GDLIlib1\\PaintConsole\\Program.cs",
+              "RelativeDocumentMoniker": "PaintConsole\\Program.cs",
+              "ToolTip": "E:\\.net\\GDLIlib1\\PaintConsole\\Program.cs",
+              "RelativeToolTip": "PaintConsole\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:56:24.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GDLIlib1",
+              "DocumentMoniker": "E:\\.net\\GDLIlib1\\GDLIlib1\\GDLIlib1.csproj",
+              "RelativeDocumentMoniker": "GDLIlib1\\GDLIlib1.csproj",
+              "ToolTip": "E:\\.net\\GDLIlib1\\GDLIlib1\\GDLIlib1.csproj",
+              "RelativeToolTip": "GDLIlib1\\GDLIlib1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-28T17:16:23.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Istorable.cs",
+              "DocumentMoniker": "E:\\.net\\GDLIlib1\\GDLIlib1\\Istorable.cs",
+              "RelativeDocumentMoniker": "GDLIlib1\\Istorable.cs",
+              "ToolTip": "E:\\.net\\GDLIlib1\\GDLIlib1\\Istorable.cs",
+              "RelativeToolTip": "GDLIlib1\\Istorable.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:32:35.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPrintable.cs",
+              "DocumentMoniker": "E:\\.net\\GDLIlib1\\GDLIlib1\\IPrintable.cs",
+              "RelativeDocumentMoniker": "GDLIlib1\\IPrintable.cs",
+              "ToolTip": "E:\\.net\\GDLIlib1\\GDLIlib1\\IPrintable.cs",
+              "RelativeToolTip": "GDLIlib1\\IPrintable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:31:36.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Line.cs",
+              "DocumentMoniker": "E:\\.net\\GDLIlib1\\GDLIlib1\\Line.cs",
+              "RelativeDocumentMoniker": "GDLIlib1\\Line.cs",
+              "ToolTip": "E:\\.net\\GDLIlib1\\GDLIlib1\\Line.cs",
+              "RelativeToolTip": "GDLIlib1\\Line.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAA8wEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:22:28.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "E:\\.net\\GDLIlib1\\GDLIlib1\\Circle.cs",
+              "RelativeDocumentMoniker": "GDLIlib1\\Circle.cs",
+              "ToolTip": "E:\\.net\\GDLIlib1\\GDLIlib1\\Circle.cs",
+              "RelativeToolTip": "GDLIlib1\\Circle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:24:15.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Point.cs",
+              "DocumentMoniker": "E:\\.net\\GDLIlib1\\GDLIlib1\\Point.cs",
+              "RelativeDocumentMoniker": "GDLIlib1\\Point.cs",
+              "ToolTip": "E:\\.net\\GDLIlib1\\GDLIlib1\\Point.cs",
+              "RelativeToolTip": "GDLIlib1\\Point.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:18:21.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "E:\\.net\\GDLIlib1\\GDLIlib1\\Shape.cs",
+              "RelativeDocumentMoniker": "GDLIlib1\\Shape.cs",
+              "ToolTip": "E:\\.net\\GDLIlib1\\GDLIlib1\\Shape.cs",
+              "RelativeToolTip": "GDLIlib1\\Shape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:17:12.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\.net\\GDLIlib1\\GDLIlib1\\Class1.cs",
+              "RelativeDocumentMoniker": "GDLIlib1\\Class1.cs",
+              "ToolTip": "E:\\.net\\GDLIlib1\\GDLIlib1\\Class1.cs",
+              "RelativeToolTip": "GDLIlib1\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:15:51.437Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
