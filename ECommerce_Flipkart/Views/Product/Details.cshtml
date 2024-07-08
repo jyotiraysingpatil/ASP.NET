@@ -1,0 +1,25 @@
+﻿
+<h1>Product Catlog</h1>
+<hr/>
+<ol>
+@{
+    // List<string> allProducts = (List<string>)ViewData["products"];
+    // foreach( string s in allProducts)
+    // {
+    //     <li>@s</li>
+    // }
+        @model List<ECommerce_Flipkart.Models.Product>
+
+        @foreach (var product in Model)
+        {
+            <div>
+                <h2>@product.Title</h2>
+                <p>@product.Description</p>
+                <p>@product.UnitPrice</p>
+                <p>@product.Imageurl</p>
+                <p>@product.quantity</p>
+            </div>
+        }
+
+}
+</ol>
