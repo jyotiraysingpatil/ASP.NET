@@ -1519,11 +1519,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jp893\\source\\repos\\Student_Management\\Student_Management\\Student_Management.csproj",
+      "projectUniqueName": "C:\\Users\\jp893\\Music\\demo\\ASP.NET\\Student_Management\\Student_Management\\Student_Management.csproj",
       "projectName": "Student_Management",
-      "projectPath": "C:\\Users\\jp893\\source\\repos\\Student_Management\\Student_Management\\Student_Management.csproj",
+      "projectPath": "C:\\Users\\jp893\\Music\\demo\\ASP.NET\\Student_Management\\Student_Management\\Student_Management.csproj",
       "packagesPath": "C:\\Users\\jp893\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jp893\\source\\repos\\Student_Management\\Student_Management\\obj\\",
+      "outputPath": "C:\\Users\\jp893\\Music\\demo\\ASP.NET\\Student_Management\\Student_Management\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jp893\\AppData\\Roaming\\NuGet\\NuGet.Config",

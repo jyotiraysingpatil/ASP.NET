@@ -1,45 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jp893\\source\\repos\\Student_Management\\",
+  "WorkspaceRootPath": "C:\\Users\\jp893\\Music\\demo\\ASP.NET\\Student_Management\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{23D6E1C1-34E6-49D2-9709-93FD4EB699D4}|Student_Management\\Student_Management.csproj|c:\\users\\jp893\\source\\repos\\student_management\\student_management\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{23D6E1C1-34E6-49D2-9709-93FD4EB699D4}|Student_Management\\Student_Management.csproj|c:\\users\\jp893\\music\\demo\\asp.net\\student_management\\student_management\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D6E1C1-34E6-49D2-9709-93FD4EB699D4}|Student_Management\\Student_Management.csproj|solutionrelative:student_management\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D6E1C1-34E6-49D2-9709-93FD4EB699D4}|Student_Management\\Student_Management.csproj|c:\\users\\jp893\\music\\demo\\asp.net\\student_management\\student_management\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23D6E1C1-34E6-49D2-9709-93FD4EB699D4}|Student_Management\\Student_Management.csproj|solutionrelative:student_management\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23D6E1C1-34E6-49D2-9709-93FD4EB699D4}|Student_Management\\Student_Management.csproj|c:\\users\\jp893\\source\\repos\\student_management\\student_management\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{23D6E1C1-34E6-49D2-9709-93FD4EB699D4}|Student_Management\\Student_Management.csproj|c:\\users\\jp893\\music\\demo\\asp.net\\student_management\\student_management\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23D6E1C1-34E6-49D2-9709-93FD4EB699D4}|Student_Management\\Student_Management.csproj|solutionrelative:student_management\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23D6E1C1-34E6-49D2-9709-93FD4EB699D4}|Student_Management\\Student_Management.csproj|c:\\users\\jp893\\source\\repos\\student_management\\student_management\\repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{23D6E1C1-34E6-49D2-9709-93FD4EB699D4}|Student_Management\\Student_Management.csproj|c:\\users\\jp893\\music\\demo\\asp.net\\student_management\\student_management\\repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23D6E1C1-34E6-49D2-9709-93FD4EB699D4}|Student_Management\\Student_Management.csproj|solutionrelative:student_management\\repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23D6E1C1-34E6-49D2-9709-93FD4EB699D4}|Student_Management\\Student_Management.csproj|c:\\users\\jp893\\source\\repos\\student_management\\student_management\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{23D6E1C1-34E6-49D2-9709-93FD4EB699D4}|Student_Management\\Student_Management.csproj|c:\\users\\jp893\\music\\demo\\asp.net\\student_management\\student_management\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23D6E1C1-34E6-49D2-9709-93FD4EB699D4}|Student_Management\\Student_Management.csproj|solutionrelative:student_management\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23D6E1C1-34E6-49D2-9709-93FD4EB699D4}|Student_Management\\Student_Management.csproj|c:\\users\\jp893\\source\\repos\\student_management\\student_management\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{23D6E1C1-34E6-49D2-9709-93FD4EB699D4}|Student_Management\\Student_Management.csproj|c:\\users\\jp893\\music\\demo\\asp.net\\student_management\\student_management\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23D6E1C1-34E6-49D2-9709-93FD4EB699D4}|Student_Management\\Student_Management.csproj|solutionrelative:student_management\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23D6E1C1-34E6-49D2-9709-93FD4EB699D4}|Student_Management\\Student_Management.csproj|c:\\users\\jp893\\source\\repos\\student_management\\student_management\\services\\istudentservicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{23D6E1C1-34E6-49D2-9709-93FD4EB699D4}|Student_Management\\Student_Management.csproj|c:\\users\\jp893\\music\\demo\\asp.net\\student_management\\student_management\\services\\istudentservicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23D6E1C1-34E6-49D2-9709-93FD4EB699D4}|Student_Management\\Student_Management.csproj|solutionrelative:student_management\\services\\istudentservicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23D6E1C1-34E6-49D2-9709-93FD4EB699D4}|Student_Management\\Student_Management.csproj|c:\\users\\jp893\\source\\repos\\student_management\\student_management\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{23D6E1C1-34E6-49D2-9709-93FD4EB699D4}|Student_Management\\Student_Management.csproj|c:\\users\\jp893\\music\\demo\\asp.net\\student_management\\student_management\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23D6E1C1-34E6-49D2-9709-93FD4EB699D4}|Student_Management\\Student_Management.csproj|solutionrelative:student_management\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23D6E1C1-34E6-49D2-9709-93FD4EB699D4}|Student_Management\\Student_Management.csproj|c:\\users\\jp893\\source\\repos\\student_management\\student_management\\repository\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{23D6E1C1-34E6-49D2-9709-93FD4EB699D4}|Student_Management\\Student_Management.csproj|c:\\users\\jp893\\music\\demo\\asp.net\\student_management\\student_management\\repository\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23D6E1C1-34E6-49D2-9709-93FD4EB699D4}|Student_Management\\Student_Management.csproj|solutionrelative:student_management\\repository\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23D6E1C1-34E6-49D2-9709-93FD4EB699D4}|Student_Management\\Student_Management.csproj|c:\\users\\jp893\\source\\repos\\student_management\\student_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{23D6E1C1-34E6-49D2-9709-93FD4EB699D4}|Student_Management\\Student_Management.csproj|c:\\users\\jp893\\music\\demo\\asp.net\\student_management\\student_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23D6E1C1-34E6-49D2-9709-93FD4EB699D4}|Student_Management\\Student_Management.csproj|solutionrelative:student_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23D6E1C1-34E6-49D2-9709-93FD4EB699D4}|Student_Management\\Student_Management.csproj|c:\\users\\jp893\\source\\repos\\student_management\\student_management\\student_management.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{23D6E1C1-34E6-49D2-9709-93FD4EB699D4}|Student_Management\\Student_Management.csproj|c:\\users\\jp893\\music\\demo\\asp.net\\student_management\\student_management\\student_management.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{23D6E1C1-34E6-49D2-9709-93FD4EB699D4}|Student_Management\\Student_Management.csproj|solutionrelative:student_management\\student_management.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -50,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,24 +62,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Student_Management\\Student_Management\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Student_Management\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Student_Management\\Student_Management\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Student_Management\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\Music\\demo\\ASP.NET\\Student_Management\\Student_Management\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Student_Management\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\jp893\\Music\\demo\\ASP.NET\\Student_Management\\Student_Management\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Student_Management\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T06:21:29.365Z",
+              "WhenOpened": "2024-07-10T05:16:43.016Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\Music\\demo\\ASP.NET\\Student_Management\\Student_Management\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Student_Management\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\jp893\\Music\\demo\\ASP.NET\\Student_Management\\Student_Management\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Student_Management\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:21:29.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "StudentContext.cs",
-              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Student_Management\\Student_Management\\Repository\\StudentContext.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\Music\\demo\\ASP.NET\\Student_Management\\Student_Management\\Repository\\StudentContext.cs",
               "RelativeDocumentMoniker": "Student_Management\\Repository\\StudentContext.cs",
-              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Student_Management\\Student_Management\\Repository\\StudentContext.cs",
+              "ToolTip": "C:\\Users\\jp893\\Music\\demo\\ASP.NET\\Student_Management\\Student_Management\\Repository\\StudentContext.cs",
               "RelativeToolTip": "Student_Management\\Repository\\StudentContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -83,50 +99,48 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "StudentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Student_Management\\Student_Management\\Repository\\StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\Music\\demo\\ASP.NET\\Student_Management\\Student_Management\\Repository\\StudentRepository.cs",
               "RelativeDocumentMoniker": "Student_Management\\Repository\\StudentRepository.cs",
-              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Student_Management\\Student_Management\\Repository\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\jp893\\Music\\demo\\ASP.NET\\Student_Management\\Student_Management\\Repository\\StudentRepository.cs",
               "RelativeToolTip": "Student_Management\\Repository\\StudentRepository.cs",
               "ViewState": "AQIAAFYAAAAAAAAAAAAAAGoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T14:06:11.556Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-08T14:06:11.556Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "IStudentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Student_Management\\Student_Management\\Repository\\IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\Music\\demo\\ASP.NET\\Student_Management\\Student_Management\\Repository\\IStudentRepository.cs",
               "RelativeDocumentMoniker": "Student_Management\\Repository\\IStudentRepository.cs",
-              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Student_Management\\Student_Management\\Repository\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\jp893\\Music\\demo\\ASP.NET\\Student_Management\\Student_Management\\Repository\\IStudentRepository.cs",
               "RelativeToolTip": "Student_Management\\Repository\\IStudentRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T14:05:14.441Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-08T14:05:14.441Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Student_Management\\Student_Management\\Controllers\\StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\Music\\demo\\ASP.NET\\Student_Management\\Student_Management\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "Student_Management\\Controllers\\StudentController.cs",
-              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Student_Management\\Student_Management\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\jp893\\Music\\demo\\ASP.NET\\Student_Management\\Student_Management\\Controllers\\StudentController.cs",
               "RelativeToolTip": "Student_Management\\Controllers\\StudentController.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAADgAAAAAAAAA",
+              "ViewState": "AQIAACMAAAAAAAAAAABRwDgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-08T14:14:53.698Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Student_Management\\Student_Management\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\Music\\demo\\ASP.NET\\Student_Management\\Student_Management\\Program.cs",
               "RelativeDocumentMoniker": "Student_Management\\Program.cs",
-              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Student_Management\\Student_Management\\Program.cs",
+              "ToolTip": "C:\\Users\\jp893\\Music\\demo\\ASP.NET\\Student_Management\\Student_Management\\Program.cs",
               "RelativeToolTip": "Student_Management\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -134,50 +148,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "StudentService.cs",
-              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Student_Management\\Student_Management\\Services\\StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\Music\\demo\\ASP.NET\\Student_Management\\Student_Management\\Services\\StudentService.cs",
               "RelativeDocumentMoniker": "Student_Management\\Services\\StudentService.cs",
-              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Student_Management\\Student_Management\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\jp893\\Music\\demo\\ASP.NET\\Student_Management\\Student_Management\\Services\\StudentService.cs",
               "RelativeToolTip": "Student_Management\\Services\\StudentService.cs",
               "ViewState": "AQIAAB4AAAAAAAAAAAAAADEAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T14:11:43.34Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IStudentServicecs.cs",
-              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Student_Management\\Student_Management\\Services\\IStudentServicecs.cs",
-              "RelativeDocumentMoniker": "Student_Management\\Services\\IStudentServicecs.cs",
-              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Student_Management\\Student_Management\\Services\\IStudentServicecs.cs",
-              "RelativeToolTip": "Student_Management\\Services\\IStudentServicecs.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T14:10:46.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-08T14:11:43.34Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Student_Management\\Student_Management\\Entities\\Student.cs",
-              "RelativeDocumentMoniker": "Student_Management\\Entities\\Student.cs",
-              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Student_Management\\Student_Management\\Entities\\Student.cs",
-              "RelativeToolTip": "Student_Management\\Entities\\Student.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Title": "IStudentServicecs.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\Music\\demo\\ASP.NET\\Student_Management\\Student_Management\\Services\\IStudentServicecs.cs",
+              "RelativeDocumentMoniker": "Student_Management\\Services\\IStudentServicecs.cs",
+              "ToolTip": "C:\\Users\\jp893\\Music\\demo\\ASP.NET\\Student_Management\\Student_Management\\Services\\IStudentServicecs.cs",
+              "RelativeToolTip": "Student_Management\\Services\\IStudentServicecs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T13:20:16.63Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-08T14:10:46.944Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\Music\\demo\\ASP.NET\\Student_Management\\Student_Management\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "Student_Management\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\jp893\\Music\\demo\\ASP.NET\\Student_Management\\Student_Management\\Entities\\Student.cs",
+              "RelativeToolTip": "Student_Management\\Entities\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T13:20:16.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Student_Management.csproj",
-              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Student_Management\\Student_Management\\Student_Management.csproj",
+              "DocumentMoniker": "C:\\Users\\jp893\\Music\\demo\\ASP.NET\\Student_Management\\Student_Management\\Student_Management.csproj",
               "RelativeDocumentMoniker": "Student_Management\\Student_Management.csproj",
-              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Student_Management\\Student_Management\\Student_Management.csproj",
+              "ToolTip": "C:\\Users\\jp893\\Music\\demo\\ASP.NET\\Student_Management\\Student_Management\\Student_Management.csproj",
               "RelativeToolTip": "Student_Management\\Student_Management.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
