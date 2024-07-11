@@ -1,0 +1,44 @@
+﻿@model IEnumerable<Student_Management.Entities.Student>
+
+@{
+    ViewBag.Title = "Admin Dashboard";
+}
+
+<h2>Admin Dashboard</h2>
+
+<p>
+    @Html.ActionLink("Add New Student", "AddStudent")
+</p>
+
+<table class="table">
+    <tr>
+        <th>Student ID</th>
+        <th>Student Name</th>
+        <th>Email</th>
+        <th>Mobile</th>
+        <th>Address</th>
+        <th>Admission Date</th>
+        <th>Fees</th>
+        <th>Status</th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.id</td>
+            <td>@item.name</td>
+            <td>@item.email</td>
+            <td>@item.mobile_no</td>
+            <td>@item.address</td>
+            <td>@item.admission_date.ToString("d")</td>
+            <td>@item.fees</td>
+            <td>@item.status</td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.id}) |
+                @Html.ActionLink("Details", "Details", new { id = item.id }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.id })
+            </td>
+        </tr>
+    }
+</table>

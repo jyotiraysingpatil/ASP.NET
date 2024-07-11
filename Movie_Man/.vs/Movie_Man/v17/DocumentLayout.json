@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jp893\\source\\repos\\Movie_Man\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76E4D436-0499-4ABD-9CF4-E42DD3E609C1}|Movie_Man\\Movie_Man.csproj|c:\\users\\jp893\\source\\repos\\movie_man\\movie_man\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E4D436-0499-4ABD-9CF4-E42DD3E609C1}|Movie_Man\\Movie_Man.csproj|solutionrelative:movie_man\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E4D436-0499-4ABD-9CF4-E42DD3E609C1}|Movie_Man\\Movie_Man.csproj|c:\\users\\jp893\\source\\repos\\movie_man\\movie_man\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E4D436-0499-4ABD-9CF4-E42DD3E609C1}|Movie_Man\\Movie_Man.csproj|solutionrelative:movie_man\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E4D436-0499-4ABD-9CF4-E42DD3E609C1}|Movie_Man\\Movie_Man.csproj|c:\\users\\jp893\\source\\repos\\movie_man\\movie_man\\services\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E4D436-0499-4ABD-9CF4-E42DD3E609C1}|Movie_Man\\Movie_Man.csproj|solutionrelative:movie_man\\services\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E4D436-0499-4ABD-9CF4-E42DD3E609C1}|Movie_Man\\Movie_Man.csproj|c:\\users\\jp893\\source\\repos\\movie_man\\movie_man\\repository\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E4D436-0499-4ABD-9CF4-E42DD3E609C1}|Movie_Man\\Movie_Man.csproj|solutionrelative:movie_man\\repository\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E4D436-0499-4ABD-9CF4-E42DD3E609C1}|Movie_Man\\Movie_Man.csproj|c:\\users\\jp893\\source\\repos\\movie_man\\movie_man\\repository\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E4D436-0499-4ABD-9CF4-E42DD3E609C1}|Movie_Man\\Movie_Man.csproj|solutionrelative:movie_man\\repository\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E4D436-0499-4ABD-9CF4-E42DD3E609C1}|Movie_Man\\Movie_Man.csproj|c:\\users\\jp893\\source\\repos\\movie_man\\movie_man\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E4D436-0499-4ABD-9CF4-E42DD3E609C1}|Movie_Man\\Movie_Man.csproj|solutionrelative:movie_man\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E4D436-0499-4ABD-9CF4-E42DD3E609C1}|Movie_Man\\Movie_Man.csproj|c:\\users\\jp893\\source\\repos\\movie_man\\movie_man\\repository\\moviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E4D436-0499-4ABD-9CF4-E42DD3E609C1}|Movie_Man\\Movie_Man.csproj|solutionrelative:movie_man\\repository\\moviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E4D436-0499-4ABD-9CF4-E42DD3E609C1}|Movie_Man\\Movie_Man.csproj|c:\\users\\jp893\\source\\repos\\movie_man\\movie_man\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E4D436-0499-4ABD-9CF4-E42DD3E609C1}|Movie_Man\\Movie_Man.csproj|solutionrelative:movie_man\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E4D436-0499-4ABD-9CF4-E42DD3E609C1}|Movie_Man\\Movie_Man.csproj|c:\\users\\jp893\\source\\repos\\movie_man\\movie_man\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E4D436-0499-4ABD-9CF4-E42DD3E609C1}|Movie_Man\\Movie_Man.csproj|solutionrelative:movie_man\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E4D436-0499-4ABD-9CF4-E42DD3E609C1}|Movie_Man\\Movie_Man.csproj|c:\\users\\jp893\\source\\repos\\movie_man\\movie_man\\movie_man.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{76E4D436-0499-4ABD-9CF4-E42DD3E609C1}|Movie_Man\\Movie_Man.csproj|solutionrelative:movie_man\\movie_man.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Movie_Man\\Movie_Man\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "Movie_Man\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Movie_Man\\Movie_Man\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "Movie_Man\\Controllers\\MovieController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T02:46:07.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Movie_Man\\Movie_Man\\Program.cs",
+              "RelativeDocumentMoniker": "Movie_Man\\Program.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Movie_Man\\Movie_Man\\Program.cs",
+              "RelativeToolTip": "Movie_Man\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T02:45:02.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Movie_Man\\Movie_Man\\Services\\MovieService.cs",
+              "RelativeDocumentMoniker": "Movie_Man\\Services\\MovieService.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Movie_Man\\Movie_Man\\Services\\MovieService.cs",
+              "RelativeToolTip": "Movie_Man\\Services\\MovieService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T02:43:28.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMovieService.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Movie_Man\\Movie_Man\\Services\\IMovieService.cs",
+              "RelativeDocumentMoniker": "Movie_Man\\Services\\IMovieService.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Movie_Man\\Movie_Man\\Services\\IMovieService.cs",
+              "RelativeToolTip": "Movie_Man\\Services\\IMovieService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T02:42:57.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Movie_Man\\Movie_Man\\Repository\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "Movie_Man\\Repository\\MovieRepository.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Movie_Man\\Movie_Man\\Repository\\MovieRepository.cs",
+              "RelativeToolTip": "Movie_Man\\Repository\\MovieRepository.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAAAHEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T02:39:41.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Movie_Man\\Movie_Man\\Repository\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "Movie_Man\\Repository\\IMovieRepository.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Movie_Man\\Movie_Man\\Repository\\IMovieRepository.cs",
+              "RelativeToolTip": "Movie_Man\\Repository\\IMovieRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T02:39:23.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovieContext.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Movie_Man\\Movie_Man\\Repository\\MovieContext.cs",
+              "RelativeDocumentMoniker": "Movie_Man\\Repository\\MovieContext.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Movie_Man\\Movie_Man\\Repository\\MovieContext.cs",
+              "RelativeToolTip": "Movie_Man\\Repository\\MovieContext.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T02:29:37.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Movie_Man\\Movie_Man\\Entities\\Movie.cs",
+              "RelativeDocumentMoniker": "Movie_Man\\Entities\\Movie.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Movie_Man\\Movie_Man\\Entities\\Movie.cs",
+              "RelativeToolTip": "Movie_Man\\Entities\\Movie.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T02:27:17.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Movie_Man\\Movie_Man\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Movie_Man\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Movie_Man\\Movie_Man\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Movie_Man\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T05:38:26.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Movie_Man.csproj",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\Movie_Man\\Movie_Man\\Movie_Man.csproj",
+              "RelativeDocumentMoniker": "Movie_Man\\Movie_Man.csproj",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\Movie_Man\\Movie_Man\\Movie_Man.csproj",
+              "RelativeToolTip": "Movie_Man\\Movie_Man.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-10T02:26:30.856Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,34 +1,72 @@
-﻿// AdminController.cs (Controllers/AdminController.cs)
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Student_Management.Entities;
+using Student_Management.Repository;
+using System.Linq;
 
 namespace Student_Management.Controllers
 {
-    [Route("api/login")]
-    [ApiController]
-    public class AdminController : ControllerBase
+    public class AdminController : Controller
     {
-        private bool IsValidAdmin(string username, string password)
+        private StudentContext db = new StudentContext();
+        private const string AdminUsername = "admin";
+        private const string AdminPassword = "password";
+        private static bool isAdminLoggedIn = false;
+        [HttpPost]
+        public IActionResult Index()
         {
-            // Replace this with your actual admin validation logic
-            return username == "jyoti" && password == "hi";
+            if (!isAdminLoggedIn)
+            {
+                return RedirectToAction("Login");
+            }
+            return View(db.student.ToList());
         }
 
-        [HttpPost("authenticate")]
-        public IActionResult AdminLogin([FromBody] LoginRequest loginRequest)
+        [HttpGet]
+        public IActionResult Login()
         {
-            if (!ModelState.IsValid)
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult Login(string username, string password)
+        {
+            if (username == AdminUsername && password == AdminPassword)
             {
-                return BadRequest(ModelState);
+                isAdminLoggedIn = true;
+                return RedirectToAction("Index");
             }
 
-            if (!IsValidAdmin(loginRequest.username, loginRequest.password))
+            ViewBag.ErrorMessage = "Invalid username or password";
+            return View();
+        }
+
+        [HttpGet]
+        public IActionResult AddStudent()
+        {
+            if (!isAdminLoggedIn)
             {
-                return Unauthorized("Invalid credentials.");
+                return RedirectToAction("Login");
             }
 
-            var adminUser = new { Username = loginRequest.username, Role = "admin" };
-            return Ok(adminUser);
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult AddStudent(Student student)
+        {
+            if (!isAdminLoggedIn)
+            {
+                return RedirectToAction("Login");
+            }
+
+            if (ModelState.IsValid)
+            {
+                db.student.Add(student);
+                db.SaveChanges();
+                return RedirectToAction("Index");
+            }
+
+            return View(student);
         }
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xpDpxyXJK6U=",
+  "dgSpecHash": "3eFyk5fb+FE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\jp893\\Music\\demo\\ASP.NET\\Student_Management\\Student_Management\\Student_Management.csproj",
+  "projectFilePath": "C:\\Users\\jp893\\source\\repos\\Student_Management\\Student_Management\\Student_Management.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jp893\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",
     "C:\\Users\\jp893\\.nuget\\packages\\k4os.compression.lz4\\1.2.6\\k4os.compression.lz4.1.2.6.nupkg.sha512",
