@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\jp893\\source\\repos\\online examination\\Online_Examination\\Online_Examination.Server\\..\\online_examination.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

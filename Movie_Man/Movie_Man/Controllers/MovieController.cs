@@ -2,8 +2,7 @@
 using Movie_Man.Entities;
 using Movie_Man.Services;
 namespace Movie_Man.Controllers
-{
-    [Route("api/[controller]")]
+{    [Route("api/[controller]")]
     [ApiController]
     public class MovieController : Controller
     {

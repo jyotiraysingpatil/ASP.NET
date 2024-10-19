@@ -5,7 +5,7 @@ namespace Movie_Man.Repository
     public interface IMovieRepository
     {
         List<Movie> GetAll();
-        List<Movie>GetById(int id); 
+        List<Movie>GetById(int id);     
      Boolean Insert(Movie movie);
         Boolean Update(int id,Movie movie);
         Boolean Delete(int id);

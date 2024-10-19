@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "FB3FvniH/pAsT3hbEX9xKbsHftKj/g2QAEjnXBwp94Q=",
+  "Source": "Online_Examination.Server",
+  "BasePath": "_content/Online_Examination.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\jp893\\source\\repos\\online examination\\Online_Examination\\online_examination.client\\online_examination.client.esproj",
+      "Version": 2,
+      "Source": "online_examination.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

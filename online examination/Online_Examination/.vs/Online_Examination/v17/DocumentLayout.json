@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jp893\\source\\repos\\online examination\\Online_Examination\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E74D0C6D-3623-4B29-BBF0-D6EA9A84A664}|Online_Examination.Server\\Online_Examination.Server.csproj|c:\\users\\jp893\\source\\repos\\online examination\\online_examination\\online_examination.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E74D0C6D-3623-4B29-BBF0-D6EA9A84A664}|Online_Examination.Server\\Online_Examination.Server.csproj|solutionrelative:online_examination.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74D0C6D-3623-4B29-BBF0-D6EA9A84A664}|Online_Examination.Server\\Online_Examination.Server.csproj|c:\\users\\jp893\\source\\repos\\online examination\\online_examination\\online_examination.server\\online_examination.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{E74D0C6D-3623-4B29-BBF0-D6EA9A84A664}|Online_Examination.Server\\Online_Examination.Server.csproj|solutionrelative:online_examination.server\\online_examination.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4FA5FC-B691-4E99-814C-38AEDC04F185}|online_examination.client\\online_examination.client.esproj|c:\\users\\jp893\\source\\repos\\online examination\\online_examination\\online_examination.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E4FA5FC-B691-4E99-814C-38AEDC04F185}|online_examination.client\\online_examination.client.esproj|solutionrelative:online_examination.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4FA5FC-B691-4E99-814C-38AEDC04F185}|online_examination.client\\online_examination.client.esproj|c:\\users\\jp893\\source\\repos\\online examination\\online_examination\\online_examination.client\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{3E4FA5FC-B691-4E99-814C-38AEDC04F185}|online_examination.client\\online_examination.client.esproj|solutionrelative:online_examination.client\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4FA5FC-B691-4E99-814C-38AEDC04F185}|online_examination.client\\online_examination.client.esproj|c:\\users\\jp893\\source\\repos\\online examination\\online_examination\\online_examination.client\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3E4FA5FC-B691-4E99-814C-38AEDC04F185}|online_examination.client\\online_examination.client.esproj|solutionrelative:online_examination.client\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74D0C6D-3623-4B29-BBF0-D6EA9A84A664}|Online_Examination.Server\\Online_Examination.Server.csproj|c:\\users\\jp893\\source\\repos\\online examination\\online_examination\\online_examination.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E74D0C6D-3623-4B29-BBF0-D6EA9A84A664}|Online_Examination.Server\\Online_Examination.Server.csproj|solutionrelative:online_examination.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74D0C6D-3623-4B29-BBF0-D6EA9A84A664}|Online_Examination.Server\\Online_Examination.Server.csproj|c:\\users\\jp893\\source\\repos\\online examination\\online_examination\\online_examination.server\\online_examination.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E74D0C6D-3623-4B29-BBF0-D6EA9A84A664}|Online_Examination.Server\\Online_Examination.Server.csproj|solutionrelative:online_examination.server\\online_examination.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\online examination\\Online_Examination\\Online_Examination.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "Online_Examination.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\online examination\\Online_Examination\\Online_Examination.Server\\appsettings.json",
+              "RelativeToolTip": "Online_Examination.Server\\appsettings.json",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAkAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-08T12:49:38.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\online examination\\Online_Examination\\online_examination.client\\package.json",
+              "RelativeDocumentMoniker": "online_examination.client\\package.json",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\online examination\\Online_Examination\\online_examination.client\\package.json",
+              "RelativeToolTip": "online_examination.client\\package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-08T12:38:50.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\online examination\\Online_Examination\\online_examination.client\\README.md",
+              "RelativeDocumentMoniker": "online_examination.client\\README.md",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\online examination\\Online_Examination\\online_examination.client\\README.md",
+              "RelativeToolTip": "online_examination.client\\README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-08-08T12:38:48.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "nuget.config",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\online examination\\Online_Examination\\online_examination.client\\nuget.config",
+              "RelativeDocumentMoniker": "online_examination.client\\nuget.config",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\online examination\\Online_Examination\\online_examination.client\\nuget.config",
+              "RelativeToolTip": "online_examination.client\\nuget.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-08T12:38:46.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Online_Examination.Server.http",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\online examination\\Online_Examination\\Online_Examination.Server\\Online_Examination.Server.http",
+              "RelativeDocumentMoniker": "Online_Examination.Server\\Online_Examination.Server.http",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\online examination\\Online_Examination\\Online_Examination.Server\\Online_Examination.Server.http",
+              "RelativeToolTip": "Online_Examination.Server\\Online_Examination.Server.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-08T12:36:44.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\online examination\\Online_Examination\\Online_Examination.Server\\Program.cs",
+              "RelativeDocumentMoniker": "Online_Examination.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\online examination\\Online_Examination\\Online_Examination.Server\\Program.cs",
+              "RelativeToolTip": "Online_Examination.Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T12:30:36.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Online_Examination.Server",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\online examination\\Online_Examination\\Online_Examination.Server\\Online_Examination.Server.csproj",
+              "RelativeDocumentMoniker": "Online_Examination.Server\\Online_Examination.Server.csproj",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\online examination\\Online_Examination\\Online_Examination.Server\\Online_Examination.Server.csproj",
+              "RelativeToolTip": "Online_Examination.Server\\Online_Examination.Server.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-08T12:19:53.603Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -10,7 +10,8 @@ namespace Movie_Man.Repository
         public DbSet<Movie> movie { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            string conStrng = @"server=localhost;user=root;password=Jyoti#1417;port=3306;database=net";
+            string conStrng = @"server=localhost;user=root;password=Jyoti#1417;
+             port=3306;database=net";
             optionsBuilder.UseMySQL(conStrng);
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
