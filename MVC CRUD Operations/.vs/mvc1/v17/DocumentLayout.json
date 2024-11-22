@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jp893\\source\\repos\\mvc1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A24E80B-C43E-4741-915E-A726A4DFDB0A}|mvc1\\mvc1.csproj|c:\\users\\jp893\\source\\repos\\mvc1\\mvc1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A24E80B-C43E-4741-915E-A726A4DFDB0A}|mvc1\\mvc1.csproj|solutionrelative:mvc1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A24E80B-C43E-4741-915E-A726A4DFDB0A}|mvc1\\mvc1.csproj|c:\\users\\jp893\\source\\repos\\mvc1\\mvc1\\views\\flowers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A24E80B-C43E-4741-915E-A726A4DFDB0A}|mvc1\\mvc1.csproj|solutionrelative:mvc1\\views\\flowers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A24E80B-C43E-4741-915E-A726A4DFDB0A}|mvc1\\mvc1.csproj|c:\\users\\jp893\\source\\repos\\mvc1\\mvc1\\controllers\\flowerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A24E80B-C43E-4741-915E-A726A4DFDB0A}|mvc1\\mvc1.csproj|solutionrelative:mvc1\\controllers\\flowerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A24E80B-C43E-4741-915E-A726A4DFDB0A}|mvc1\\mvc1.csproj|c:\\users\\jp893\\source\\repos\\mvc1\\mvc1\\views\\flowers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A24E80B-C43E-4741-915E-A726A4DFDB0A}|mvc1\\mvc1.csproj|solutionrelative:mvc1\\views\\flowers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A24E80B-C43E-4741-915E-A726A4DFDB0A}|mvc1\\mvc1.csproj|c:\\users\\jp893\\source\\repos\\mvc1\\mvc1\\data\\flowercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A24E80B-C43E-4741-915E-A726A4DFDB0A}|mvc1\\mvc1.csproj|solutionrelative:mvc1\\data\\flowercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A24E80B-C43E-4741-915E-A726A4DFDB0A}|mvc1\\mvc1.csproj|c:\\users\\jp893\\source\\repos\\mvc1\\mvc1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5A24E80B-C43E-4741-915E-A726A4DFDB0A}|mvc1\\mvc1.csproj|solutionrelative:mvc1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A24E80B-C43E-4741-915E-A726A4DFDB0A}|mvc1\\mvc1.csproj|c:\\users\\jp893\\source\\repos\\mvc1\\mvc1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A24E80B-C43E-4741-915E-A726A4DFDB0A}|mvc1\\mvc1.csproj|solutionrelative:mvc1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A24E80B-C43E-4741-915E-A726A4DFDB0A}|mvc1\\mvc1.csproj|c:\\users\\jp893\\source\\repos\\mvc1\\mvc1\\models\\flowers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A24E80B-C43E-4741-915E-A726A4DFDB0A}|mvc1\\mvc1.csproj|solutionrelative:mvc1\\models\\flowers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A24E80B-C43E-4741-915E-A726A4DFDB0A}|mvc1\\mvc1.csproj|c:\\users\\jp893\\source\\repos\\mvc1\\mvc1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A24E80B-C43E-4741-915E-A726A4DFDB0A}|mvc1\\mvc1.csproj|solutionrelative:mvc1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A24E80B-C43E-4741-915E-A726A4DFDB0A}|mvc1\\mvc1.csproj|c:\\users\\jp893\\source\\repos\\mvc1\\mvc1\\mvc1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5A24E80B-C43E-4741-915E-A726A4DFDB0A}|mvc1\\mvc1.csproj|solutionrelative:mvc1\\mvc1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A24E80B-C43E-4741-915E-A726A4DFDB0A}|mvc1\\mvc1.csproj|c:\\users\\jp893\\source\\repos\\mvc1\\mvc1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A24E80B-C43E-4741-915E-A726A4DFDB0A}|mvc1\\mvc1.csproj|solutionrelative:mvc1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A24E80B-C43E-4741-915E-A726A4DFDB0A}|mvc1\\mvc1.csproj|c:\\users\\jp893\\source\\repos\\mvc1\\mvc1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A24E80B-C43E-4741-915E-A726A4DFDB0A}|mvc1\\mvc1.csproj|solutionrelative:mvc1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A24E80B-C43E-4741-915E-A726A4DFDB0A}|mvc1\\mvc1.csproj|c:\\users\\jp893\\source\\repos\\mvc1\\mvc1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A24E80B-C43E-4741-915E-A726A4DFDB0A}|mvc1\\mvc1.csproj|solutionrelative:mvc1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A24E80B-C43E-4741-915E-A726A4DFDB0A}|mvc1\\mvc1.csproj|c:\\users\\jp893\\source\\repos\\mvc1\\mvc1\\mvc1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5A24E80B-C43E-4741-915E-A726A4DFDB0A}|mvc1\\mvc1.csproj|solutionrelative:mvc1\\mvc1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\mvc1\\mvc1\\Views\\Flowers\\Index.cshtml",
+              "RelativeDocumentMoniker": "mvc1\\Views\\Flowers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\mvc1\\mvc1\\Views\\Flowers\\Index.cshtml",
+              "RelativeToolTip": "mvc1\\Views\\Flowers\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T18:24:16.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\mvc1\\mvc1\\Program.cs",
+              "RelativeDocumentMoniker": "mvc1\\Program.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\mvc1\\mvc1\\Program.cs",
+              "RelativeToolTip": "mvc1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T17:24:08.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\mvc1\\mvc1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "mvc1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\mvc1\\mvc1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "mvc1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T17:14:43.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\mvc1\\mvc1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "mvc1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\mvc1\\mvc1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "mvc1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T17:12:20.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\mvc1\\mvc1\\Views\\Flowers\\Create.cshtml",
+              "RelativeDocumentMoniker": "mvc1\\Views\\Flowers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\mvc1\\mvc1\\Views\\Flowers\\Create.cshtml",
+              "RelativeToolTip": "mvc1\\Views\\Flowers\\Create.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAIwBwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T17:10:52.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\mvc1\\mvc1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "mvc1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\mvc1\\mvc1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "mvc1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABwAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T17:14:49.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\mvc1\\mvc1\\appsettings.json",
+              "RelativeDocumentMoniker": "mvc1\\appsettings.json",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\mvc1\\mvc1\\appsettings.json",
+              "RelativeToolTip": "mvc1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-22T16:47:45.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FlowerContext.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\mvc1\\mvc1\\Data\\FlowerContext.cs",
+              "RelativeDocumentMoniker": "mvc1\\Data\\FlowerContext.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\mvc1\\mvc1\\Data\\FlowerContext.cs",
+              "RelativeToolTip": "mvc1\\Data\\FlowerContext.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAIwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T16:52:04.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FlowersController.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\mvc1\\mvc1\\Controllers\\FlowersController.cs",
+              "RelativeDocumentMoniker": "mvc1\\Controllers\\FlowersController.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\mvc1\\mvc1\\Controllers\\FlowersController.cs",
+              "RelativeToolTip": "mvc1\\Controllers\\FlowersController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T16:59:49.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "mvc1",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\mvc1\\mvc1\\mvc1.csproj",
+              "RelativeDocumentMoniker": "mvc1\\mvc1.csproj",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\mvc1\\mvc1\\mvc1.csproj",
+              "RelativeToolTip": "mvc1\\mvc1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-22T17:24:14.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Flowers.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\mvc1\\mvc1\\Models\\Flowers.cs",
+              "RelativeDocumentMoniker": "mvc1\\Models\\Flowers.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\mvc1\\mvc1\\Models\\Flowers.cs",
+              "RelativeToolTip": "mvc1\\Models\\Flowers.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAgwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T16:48:50.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\mvc1\\mvc1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "mvc1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\mvc1\\mvc1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "mvc1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T17:34:56.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\mvc1\\mvc1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "mvc1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\mvc1\\mvc1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "mvc1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T17:14:38.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "mvc1",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\mvc1\\mvc1\\mvc1.csproj",
+              "RelativeDocumentMoniker": "mvc1\\mvc1.csproj",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\mvc1\\mvc1\\mvc1.csproj",
+              "RelativeToolTip": "mvc1\\mvc1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-22T16:49:25.495Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
