@@ -1,0 +1,77 @@
+ASP.NET Overview
+Introduction
+ASP.NET is a robust, flexible, and high-performance web framework developed by Microsoft. It enables developers to create dynamic websites, web applications, and web services. Built on the .NET platform, ASP.NET supports multiple programming languages such as C#, VB.NET, and F#, providing a powerful environment for building scalable and secure web applications.
+
+Key Aspects of ASP.NET
+1. ASP.NET Core
+ASP.NET Core is a cross-platform, high-performance framework for building modern, cloud-based, and internet-connected applications. It allows developers to run their applications on Windows, macOS, and Linux.
+
+Features:
+Cross-Platform: Build and run applications on Windows, macOS, and Linux.
+High Performance: Optimized for performance, scalability, and efficiency.
+Unified Framework: Combines the best of ASP.NET MVC and ASP.NET Web API into a single framework.
+Dependency Injection: Built-in support for dependency injection improves code maintainability and testability.
+Modular: Lightweight and modular components, providing flexibility and reducing overhead.
+2. ASP.NET MVC
+ASP.NET MVC is a framework for building web applications using the Model-View-Controller (MVC) architectural pattern. It promotes a clear separation of concerns, making applications more modular and easier to test.
+
+Features:
+Separation of Concerns: Clear division between the application's logic, UI, and data.
+Testability: Enhanced support for unit testing and test-driven development (TDD).
+Convention over Configuration: Uses conventions to reduce the need for configuration.
+Flexible Routing: Powerful routing engine for defining URL patterns.
+3. ASP.NET Web API
+ASP.NET Web API is a framework for building HTTP-based services that can be consumed by various clients, including browsers, mobile devices, and desktop applications.
+
+Features:
+RESTful Services: Create RESTful services that can be consumed by different clients.
+Content Negotiation: Automatically selects the appropriate format (JSON, XML) based on the client request.
+HTTP Methods: Supports standard HTTP methods (GET, POST, PUT, DELETE).
+Routing: Flexible and powerful routing system.
+4. ASP.NET Razor Pages
+Razor Pages is a simplified programming model for building web UI in ASP.NET Core. It is ideal for scenarios where page-centric logic is the most appropriate approach.
+
+Features:
+Page-Based Approach: Each Razor Page corresponds to a single web page.
+Inline Model and View: Combines the model and view in a single file, simplifying development.
+Handler Methods: Uses handler methods to handle HTTP requests.
+5. SignalR
+ASP.NET SignalR is a library for adding real-time web functionality to applications. It enables server-side code to push content to connected clients instantly.
+
+Features:
+Real-Time Communication: Supports real-time communication using WebSockets, Server-Sent Events, and Long Polling.
+Automatic Reconnection: Handles reconnections automatically.
+Scalability: Integrates with Redis, SQL Server, and Azure for scaling out to multiple servers.
+6. Security
+ASP.NET provides robust security features to protect applications against common threats.
+
+Features:
+Authentication: Supports various authentication mechanisms, including cookies, JWT, OAuth, and OpenID Connect.
+Authorization: Role-based and policy-based authorization mechanisms.
+Data Protection: In-built data protection API for encrypting sensitive data.
+Cross-Site Scripting (XSS) Protection: Built-in measures to prevent XSS attacks.
+Anti-Forgery Tokens: Protects against Cross-Site Request Forgery (CSRF) attacks.
+7. Entity Framework Core
+Entity Framework Core (EF Core) is an object-relational mapper (ORM) for .NET. It enables developers to work with a database using .NET objects.
+
+Features:
+Code-First and Database-First: Supports both code-first and database-first approaches.
+LINQ Queries: Allows writing database queries using LINQ (Language-Integrated Query).
+Change Tracking: Automatically tracks changes made to entities.
+Migrations: Supports database migrations to manage schema changes over time.
+8. Hosting and Deployment
+ASP.NET applications can be hosted on various platforms and servers, providing flexibility in deployment.
+
+Features:
+Self-Hosting: Host ASP.NET Core applications in a custom process.
+Kestrel Server: Lightweight, high-performance HTTP server for ASP.NET Core.
+Integration with IIS: Full integration with Internet Information Services (IIS) for hosting on Windows.
+Containerization: Support for Docker containers to package and deploy applications consistently across environments.
+Cloud Deployment: Easy deployment to cloud platforms such as Microsoft Azure.
+9. Tooling
+ASP.NET development is supported by a rich set of tools that enhance productivity.
+
+Features:
+Visual Studio: Comprehensive IDE with powerful debugging, profiling, and IntelliSense features.
+Visual Studio Code: Lightweight, cross-platform code editor with extensions for ASP.NET Core development.
+CLI Tools: Command-line interface tools for creating, building, and running ASP.NET Core applications.
