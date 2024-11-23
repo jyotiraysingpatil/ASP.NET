@@ -1,0 +1,28 @@
+﻿@model sample.Models.Quizzes
+
+<h2>Add Quiz</h2>
+
+<form asp-action="AddQuiz" method="post">
+    <div class="form-group">
+        <label asp-for="title"></label>
+        <input asp-for="title" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="description"></label>
+        <input asp-for="description" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="isActive"></label>
+        <input asp-for="isActive" class="form-control" type="checkbox" />
+    </div>
+    <div class="form-group">
+        <label asp-for="maxMarks"></label>
+        <input asp-for="maxMarks" class="form-control" type="number" />
+    </div>
+    <div class="form-group">
+        <label asp-for="num_of_questions"></label>
+        <input asp-for="num_of_questions" class="form-control" type="number" />
+    </div>
+    
+    <button type="submit" class="btn btn-primary">Add Quiz</button>
+</form>
