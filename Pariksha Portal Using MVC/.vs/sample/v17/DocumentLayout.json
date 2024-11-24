@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\jp893\\source\\repos\\sample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|c:\\users\\jp893\\source\\repos\\sample\\sample\\data\\examcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|solutionrelative:sample\\data\\examcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|c:\\users\\jp893\\source\\repos\\sample\\sample\\views\\user\\viewquizresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|solutionrelative:sample\\views\\user\\viewquizresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|c:\\users\\jp893\\source\\repos\\sample\\sample\\views\\admin\\addcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|solutionrelative:sample\\views\\admin\\addcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|c:\\users\\jp893\\source\\repos\\sample\\sample\\models\\quizresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|solutionrelative:sample\\models\\quizresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|c:\\users\\jp893\\source\\repos\\sample\\sample\\views\\admin\\addquiz.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|solutionrelative:sample\\views\\admin\\addquiz.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|c:\\users\\jp893\\source\\repos\\sample\\sample\\views\\admin\\addquestion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|solutionrelative:sample\\views\\admin\\addquestion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|c:\\users\\jp893\\source\\repos\\sample\\sample\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|solutionrelative:sample\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|c:\\users\\jp893\\source\\repos\\sample\\sample\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|solutionrelative:sample\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|c:\\users\\jp893\\source\\repos\\sample\\sample\\data\\examcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|solutionrelative:sample\\data\\examcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|c:\\users\\jp893\\source\\repos\\sample\\sample\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|solutionrelative:sample\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|c:\\users\\jp893\\source\\repos\\sample\\sample\\models\\quizzes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,16 +35,40 @@
       "RelativeMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|solutionrelative:sample\\models\\questions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|c:\\users\\jp893\\source\\repos\\sample\\sample\\models\\quizresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|solutionrelative:sample\\models\\quizresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|c:\\users\\jp893\\source\\repos\\sample\\sample\\models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|solutionrelative:sample\\models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|c:\\users\\jp893\\source\\repos\\sample\\sample\\models\\admins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|solutionrelative:sample\\models\\admins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|c:\\users\\jp893\\source\\repos\\sample\\sample\\views\\user\\submitquiz.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|solutionrelative:sample\\views\\user\\submitquiz.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|c:\\users\\jp893\\source\\repos\\sample\\sample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|solutionrelative:sample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|c:\\users\\jp893\\source\\repos\\sample\\sample\\views\\user\\attemptquiz.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|solutionrelative:sample\\views\\user\\attemptquiz.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|c:\\users\\jp893\\source\\repos\\sample\\sample\\views\\user\\viewquizzes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|solutionrelative:sample\\views\\user\\viewquizzes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|c:\\users\\jp893\\source\\repos\\sample\\sample\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|solutionrelative:sample\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|c:\\users\\jp893\\source\\repos\\sample\\sample\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|solutionrelative:sample\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|c:\\users\\jp893\\source\\repos\\sample\\sample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|solutionrelative:sample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|c:\\users\\jp893\\source\\repos\\sample\\sample\\views\\admin\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -51,12 +79,16 @@
       "RelativeMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|solutionrelative:sample\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|c:\\users\\jp893\\source\\repos\\sample\\sample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|solutionrelative:sample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|c:\\users\\jp893\\source\\repos\\sample\\sample\\views\\admin\\addquiz.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|solutionrelative:sample\\views\\admin\\addquiz.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|c:\\users\\jp893\\source\\repos\\sample\\sample\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|solutionrelative:sample\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|c:\\users\\jp893\\source\\repos\\sample\\sample\\views\\admin\\addquestion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|solutionrelative:sample\\views\\admin\\addquestion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|c:\\users\\jp893\\source\\repos\\sample\\sample\\views\\admin\\addcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|solutionrelative:sample\\views\\admin\\addcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|c:\\users\\jp893\\source\\repos\\sample\\sample\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -65,10 +97,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|c:\\users\\jp893\\source\\repos\\sample\\sample\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|solutionrelative:sample\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|c:\\users\\jp893\\source\\repos\\sample\\sample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|solutionrelative:sample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3720D9DD-EE3A-4BE1-87DE-2F90C675135B}|sample\\sample.csproj|c:\\users\\jp893\\source\\repos\\sample\\sample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -90,7 +118,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,119 +126,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "sample\\Controllers\\AdminController.cs",
-              "ToolTip": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "sample\\Controllers\\AdminController.cs",
-              "ViewState": "AQIAAFwAAAAAAAAAAAAAAGUAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T09:39:37.499Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ExamContext.cs",
-              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Data\\ExamContext.cs",
-              "RelativeDocumentMoniker": "sample\\Data\\ExamContext.cs",
-              "ToolTip": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Data\\ExamContext.cs",
-              "RelativeToolTip": "sample\\Data\\ExamContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T09:11:45.347Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Admins.cs",
-              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Models\\Admins.cs",
-              "RelativeDocumentMoniker": "sample\\Models\\Admins.cs",
-              "ToolTip": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Models\\Admins.cs",
-              "RelativeToolTip": "sample\\Models\\Admins.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T09:18:21.287Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AddQuiz.cshtml",
-              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Views\\Admin\\AddQuiz.cshtml",
-              "RelativeDocumentMoniker": "sample\\Views\\Admin\\AddQuiz.cshtml",
-              "ToolTip": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Views\\Admin\\AddQuiz.cshtml*",
-              "RelativeToolTip": "sample\\Views\\Admin\\AddQuiz.cshtml*",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAABkAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-23T12:31:43.051Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Quizzes.cs",
-              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Models\\Quizzes.cs",
-              "RelativeDocumentMoniker": "sample\\Models\\Quizzes.cs",
-              "ToolTip": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Models\\Quizzes.cs",
-              "RelativeToolTip": "sample\\Models\\Quizzes.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAgwAsAAAAeAAAA",
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "sample\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Controllers\\UserController.cs",
+              "RelativeToolTip": "sample\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAAAG0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T09:35:40.502Z",
+              "WhenOpened": "2024-11-23T17:57:28.71Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AddCategory.cshtml",
-              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Views\\Admin\\AddCategory.cshtml",
-              "RelativeDocumentMoniker": "sample\\Views\\Admin\\AddCategory.cshtml",
-              "ToolTip": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Views\\Admin\\AddCategory.cshtml",
-              "RelativeToolTip": "sample\\Views\\Admin\\AddCategory.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-23T11:05:06.768Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "QuizResults.cs",
               "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Models\\QuizResults.cs",
               "RelativeDocumentMoniker": "sample\\Models\\QuizResults.cs",
               "ToolTip": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Models\\QuizResults.cs",
               "RelativeToolTip": "sample\\Models\\QuizResults.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAzwBMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-23T09:35:30.904Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AddQuestion.cshtml",
-              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Views\\Admin\\AddQuestion.cshtml",
-              "RelativeDocumentMoniker": "sample\\Views\\Admin\\AddQuestion.cshtml",
-              "ToolTip": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Views\\Admin\\AddQuestion.cshtml",
-              "RelativeToolTip": "sample\\Views\\Admin\\AddQuestion.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAB0AAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-23T12:32:27.449Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Questions.cs",
-              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Models\\Questions.cs",
-              "RelativeDocumentMoniker": "sample\\Models\\Questions.cs",
-              "ToolTip": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Models\\Questions.cs",
-              "RelativeToolTip": "sample\\Models\\Questions.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAAAoAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T09:35:21.484Z",
               "EditorCaption": ""
             },
             {
@@ -221,88 +158,186 @@
               "RelativeDocumentMoniker": "sample\\Models\\Categories.cs",
               "ToolTip": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Models\\Categories.cs",
               "RelativeToolTip": "sample\\Models\\Categories.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAwAAAAHAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAwBAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-23T09:35:11.062Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "sample\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "sample\\Models\\ErrorViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAXAAAA",
+              "DocumentIndex": 6,
+              "Title": "Quizzes.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Models\\Quizzes.cs",
+              "RelativeDocumentMoniker": "sample\\Models\\Quizzes.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Models\\Quizzes.cs",
+              "RelativeToolTip": "sample\\Models\\Quizzes.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T10:55:06.591Z",
+              "WhenOpened": "2024-11-23T09:35:40.502Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Views\\Admin\\Login.cshtml",
-              "RelativeDocumentMoniker": "sample\\Views\\Admin\\Login.cshtml",
-              "ToolTip": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Views\\Admin\\Login.cshtml",
-              "RelativeToolTip": "sample\\Views\\Admin\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-23T10:44:26.405Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Views\\Admin\\Register.cshtml",
-              "RelativeDocumentMoniker": "sample\\Views\\Admin\\Register.cshtml",
-              "ToolTip": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Views\\Admin\\Register.cshtml",
-              "RelativeToolTip": "sample\\Views\\Admin\\Register.cshtml",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAIwBEAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-23T11:01:33.045Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 5,
               "Title": "Users.cs",
               "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Models\\Users.cs",
               "RelativeDocumentMoniker": "sample\\Models\\Users.cs",
               "ToolTip": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Models\\Users.cs",
               "RelativeToolTip": "sample\\Models\\Users.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-23T09:35:49.396Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "sample\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "sample\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACAAAAAdAAAA",
+              "DocumentIndex": 4,
+              "Title": "ExamContext.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Data\\ExamContext.cs",
+              "RelativeDocumentMoniker": "sample\\Data\\ExamContext.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Data\\ExamContext.cs",
+              "RelativeToolTip": "sample\\Data\\ExamContext.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAowFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T09:11:45.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "sample\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "sample\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAkwG4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T09:39:37.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewQuizResult.cshtml",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Views\\User\\ViewQuizResult.cshtml",
+              "RelativeDocumentMoniker": "sample\\Views\\User\\ViewQuizResult.cshtml",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Views\\User\\ViewQuizResult.cshtml",
+              "RelativeToolTip": "sample\\Views\\User\\ViewQuizResult.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-23T10:50:27.797Z",
+              "WhenOpened": "2024-11-23T19:04:24.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Admins.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Models\\Admins.cs",
+              "RelativeDocumentMoniker": "sample\\Models\\Admins.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Models\\Admins.cs",
+              "RelativeToolTip": "sample\\Models\\Admins.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAuwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T09:18:21.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Questions.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Models\\Questions.cs",
+              "RelativeDocumentMoniker": "sample\\Models\\Questions.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Models\\Questions.cs",
+              "RelativeToolTip": "sample\\Models\\Questions.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T09:35:21.484Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "sample\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "sample\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Views\\User\\Register.cshtml",
+              "RelativeDocumentMoniker": "sample\\Views\\User\\Register.cshtml",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Views\\User\\Register.cshtml",
+              "RelativeToolTip": "sample\\Views\\User\\Register.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAowBkAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-23T10:50:20.299Z",
+              "WhenOpened": "2024-11-23T18:59:28.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SubmitQuiz.cshtml",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Views\\User\\SubmitQuiz.cshtml",
+              "RelativeDocumentMoniker": "sample\\Views\\User\\SubmitQuiz.cshtml",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Views\\User\\SubmitQuiz.cshtml",
+              "RelativeToolTip": "sample\\Views\\User\\SubmitQuiz.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T19:45:03.385Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "sample\\Views\\User\\Login.cshtml",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "sample\\Views\\User\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T19:00:37.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "sample\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "sample\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAwCcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T10:50:27.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ViewQuizzes.cshtml",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Views\\User\\ViewQuizzes.cshtml",
+              "RelativeDocumentMoniker": "sample\\Views\\User\\ViewQuizzes.cshtml",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Views\\User\\ViewQuizzes.cshtml",
+              "RelativeToolTip": "sample\\Views\\User\\ViewQuizzes.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T19:01:56.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AttemptQuiz.cshtml",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Views\\User\\AttemptQuiz.cshtml",
+              "RelativeDocumentMoniker": "sample\\Views\\User\\AttemptQuiz.cshtml",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Views\\User\\AttemptQuiz.cshtml",
+              "RelativeToolTip": "sample\\Views\\User\\AttemptQuiz.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T19:03:16.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddQuiz.cshtml",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Views\\Admin\\AddQuiz.cshtml",
+              "RelativeDocumentMoniker": "sample\\Views\\Admin\\AddQuiz.cshtml",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Views\\Admin\\AddQuiz.cshtml",
+              "RelativeToolTip": "sample\\Views\\Admin\\AddQuiz.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAIwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T12:31:43.051Z"
             },
             {
               "$type": "Document",
@@ -314,12 +349,83 @@
               "RelativeToolTip": "sample\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T09:56:53.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T09:56:53.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddQuestion.cshtml",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Views\\Admin\\AddQuestion.cshtml",
+              "RelativeDocumentMoniker": "sample\\Views\\Admin\\AddQuestion.cshtml",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Views\\Admin\\AddQuestion.cshtml",
+              "RelativeToolTip": "sample\\Views\\Admin\\AddQuestion.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAIwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T12:32:27.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AddCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Views\\Admin\\AddCategory.cshtml",
+              "RelativeDocumentMoniker": "sample\\Views\\Admin\\AddCategory.cshtml",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Views\\Admin\\AddCategory.cshtml",
+              "RelativeToolTip": "sample\\Views\\Admin\\AddCategory.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T11:05:06.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Views\\Admin\\Login.cshtml",
+              "RelativeDocumentMoniker": "sample\\Views\\Admin\\Login.cshtml",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Views\\Admin\\Login.cshtml",
+              "RelativeToolTip": "sample\\Views\\Admin\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T10:44:26.405Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Views\\Admin\\Register.cshtml",
+              "RelativeDocumentMoniker": "sample\\Views\\Admin\\Register.cshtml",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Views\\Admin\\Register.cshtml",
+              "RelativeToolTip": "sample\\Views\\Admin\\Register.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwBMAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T11:01:33.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "sample\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "sample\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T10:55:06.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "sample\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "sample\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T10:50:20.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\Program.cs",
               "RelativeDocumentMoniker": "sample\\Program.cs",
@@ -327,25 +433,23 @@
               "RelativeToolTip": "sample\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T09:08:02.77Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T09:08:02.77Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "sample",
+              "DocumentIndex": 25,
+              "Title": "sample.csproj",
               "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\sample.csproj",
               "RelativeDocumentMoniker": "sample\\sample.csproj",
               "ToolTip": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\sample.csproj",
               "RelativeToolTip": "sample\\sample.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-23T09:11:02.31Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T09:11:02.31Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 26,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\sample\\sample\\appsettings.json",
               "RelativeDocumentMoniker": "sample\\appsettings.json",
@@ -353,8 +457,7 @@
               "RelativeToolTip": "sample\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-23T09:08:04.834Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T09:08:04.834Z"
             }
           ]
         }

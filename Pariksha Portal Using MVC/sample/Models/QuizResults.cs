@@ -1,9 +1,11 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
-
+﻿
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 namespace sample.Models
 {
     public class QuizResults
     {
+        [Key]
         public int quiz_res_id { get; set; }    
         public DateTime attemptDateTime { get; set; }   
         public int totalObtainedMarks { get; set; }
@@ -12,6 +14,6 @@ namespace sample.Models
 
         [ForeignKey("user_id")]
        public int user_id { get; set; } 
-
+        
     }
 }

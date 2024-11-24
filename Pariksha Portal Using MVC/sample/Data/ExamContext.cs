@@ -11,6 +11,9 @@ namespace sample.Data
         public DbSet<Quizzes> quizzes { get; set; }
         public DbSet<Questions> questions { get; set; } 
         public DbSet<Categories> categories { get; set; }
+        public DbSet<Users> users { get; set; }
+        public DbSet<QuizResults> quizresults { get; set; }
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
@@ -64,6 +67,17 @@ namespace sample.Data
             });
             modelBuilder.Entity<Questions>().ToTable("questions");
 
+            modelBuilder.Entity<Users>(entity =>
+            {
+entity.HasKey(e=>e.user_id);    
+entity.Property(e=>e.firstName).IsRequired();
+                entity.Property(e => e.lastName).IsRequired();
+                entity.Property(e => e.isActive).IsRequired();
+                entity.Property(e => e.password).IsRequired();
+                entity.Property(e => e.phoneNumber).IsRequired();
+                entity.Property(e => e.username).IsRequired();
+            });
+            modelBuilder.Entity<Users>().ToTable("users");
         }
     }
 }

@@ -1,0 +1,18 @@
+﻿@model IEnumerable<sample.Models.Questions>
+
+<h2>Attempt Quiz</h2>
+
+<form asp-action="SubmitQuiz" method="post">
+    @foreach (var question in Model)
+    {
+        <div class="form-group">
+            <label>@question.question</label>
+            <input type="hidden" name="[@question.ques_id].ques_id" value="@question.ques_id" />
+            <input type="radio" name="[@question.ques_id].SelectedAnswer" value="option1" /> @question.option1<br />
+            <input type="radio" name="[@question.ques_id].SelectedAnswer" value="option2" /> @question.option2<br />
+            <input type="radio" name="[@question.ques_id].SelectedAnswer" value="option3" /> @question.option3<br />
+            <input type="radio" name="[@question.ques_id].SelectedAnswer" value="option4" /> @question.option4<br />
+        </div>
+    }
+    <button type="submit" class="btn btn-primary">Submit Quiz</button>
+</form>
